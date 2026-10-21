@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.6
+openai>=1.14            # DashScope OpenAI 兼容模式
+pypdf>=4.2
+rank-bm25>=0.2.2

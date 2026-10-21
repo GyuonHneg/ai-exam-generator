@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+*.pkl
+questions.json
+.env
+.DS_Store
+docs/
